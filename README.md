@@ -37,8 +37,16 @@ For any questions, reach out to me on Discord [yfletch#7864](https://discordapp.
 
 ### Free features
 
-* Coming soon
+* Prevent dangerous clicks
+* Crondis
+  * One-click use water container
+  * One-click barrage crocodiles
+  * Show optimal jug push
+  * Highlight poison splats
+* More WIP
 
 ### Pro features
 
-* Coming soon
+* Crondis
+  * Auto-walk tidal waves
+* More WIP
